@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Crud-operation/static/css/main.fd99599e.chunk.css",
+    "main.js": "/Crud-operation/static/js/main.64f7b374.chunk.js",
+    "main.js.map": "/Crud-operation/static/js/main.64f7b374.chunk.js.map",
+    "runtime-main.js": "/Crud-operation/static/js/runtime-main.2c99947b.js",
+    "runtime-main.js.map": "/Crud-operation/static/js/runtime-main.2c99947b.js.map",
+    "static/css/2.cbedb215.chunk.css": "/Crud-operation/static/css/2.cbedb215.chunk.css",
+    "static/js/2.845a88ce.chunk.js": "/Crud-operation/static/js/2.845a88ce.chunk.js",
+    "static/js/2.845a88ce.chunk.js.map": "/Crud-operation/static/js/2.845a88ce.chunk.js.map",
+    "index.html": "/Crud-operation/index.html",
+    "static/css/2.cbedb215.chunk.css.map": "/Crud-operation/static/css/2.cbedb215.chunk.css.map",
+    "static/css/main.fd99599e.chunk.css.map": "/Crud-operation/static/css/main.fd99599e.chunk.css.map",
+    "static/js/2.845a88ce.chunk.js.LICENSE.txt": "/Crud-operation/static/js/2.845a88ce.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2c99947b.js",
+    "static/css/2.cbedb215.chunk.css",
+    "static/js/2.845a88ce.chunk.js",
+    "static/css/main.fd99599e.chunk.css",
+    "static/js/main.64f7b374.chunk.js"
+  ]
+}
